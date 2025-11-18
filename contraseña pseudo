@@ -1,1 +1,6 @@
-
+1. Solicitar al usuario que digite una contraseña
+2. solicitarle que vuelva a digitar la contraseña para verificar si son iguales
+3. Comparar si la contraseña1 coincide con las contraseña2 
+4. si las contraseñas coinciden enviar un mensaje que diga:¡contraseña creada!
+5. si no coinciden enviar un mensaje que diga: "las contraseñas no coinciden"
+6. repetir el proceso
